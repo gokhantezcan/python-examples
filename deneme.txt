@@ -1,0 +1,4 @@
+# -*- coding: utf-8 -*-
+bu
+örnek
+metindir..
